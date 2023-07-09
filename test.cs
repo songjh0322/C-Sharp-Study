@@ -39,5 +39,6 @@ namespace MethodStudy
 
             ComparisonNum(num2: x, num1: y);
         }
+        
     }
 }
